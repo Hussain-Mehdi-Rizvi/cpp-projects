@@ -25,4 +25,4 @@ This is a simple implementation of the classic Tic-Tac-Toe game. The game is pla
 3. The first player to get three of their symbols in a horizontal, vertical, or diagonal row wins.
 4. If all spaces are filled and no player has won, the game ends in a draw.
 
-## Installation
+
